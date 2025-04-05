@@ -1,11 +1,12 @@
 # DATA5441 Networks and High-dimensional Inference
 
-This course covered methods and theories used in analysing high-dimensional data with an emphasis on network structures and statistical inference. 
-Some of the key areas covered were graph theory, network robustness, strength of ties, and concepts such as network susceptibility and critical thresholds in network failure.
+This course covered methods and theories for analysing high-dimensional data, with an emphasis on network structures and statistical inference. 
+Some key areas covered were graph theory, network robustness, strength of ties, and concepts such as network susceptibility and critical thresholds in network failure.
 
 ## Group Project: Understanding Weak Ties in Social Networks
 ### Summary
-* Group project, collaborated with [Jimnena](https://github.com/jimenaspi).
+* Group project
+* Collaborator: [Jimnena Espinoza](https://github.com/jimenaspi).
 * Investigated the "strength of weak ties" hypothesis in social networks.
 * Focused on how social network robustness is affected by removing links.
 * Methods were based on the study by Onnela et al. (2007).
