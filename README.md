@@ -43,3 +43,6 @@ Some key areas covered were graph theory, network robustness, strength of ties, 
 * Link removal experiments by weight/overlap
 * Power-Law Cluster model simulation
 * Susceptibility analysis and critical fraction analysis
+
+## License
+This content is shared for educational and portfolio purposes only. Please do not reuse without appropriate citation.
